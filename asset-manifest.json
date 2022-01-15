@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/natour-web/static/css/main.ff0cb9d0.css",
+    "main.js": "/natour-web/static/js/main.cc0b13dd.js",
+    "index.html": "/natour-web/index.html",
+    "main.ff0cb9d0.css.map": "/natour-web/static/css/main.ff0cb9d0.css.map",
+    "main.cc0b13dd.js.map": "/natour-web/static/js/main.cc0b13dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff0cb9d0.css",
+    "static/js/main.cc0b13dd.js"
+  ]
+}
